@@ -70,8 +70,3 @@ In fraud detection, recall is more important because missing fraudulent transact
 - NumPy  
 - scikit-learn  
 - Matplotlib  
-
-
-- Improve recall using resampling techniques (SMOTE)  
-- Test additional models (XGBoost)  
-- Optimise hyperparameters  
